@@ -1,0 +1,17 @@
+# Ignore node modules
+node_modules/
+
+# Ignore Laravel dependencies
+vendor/
+.env
+.env.example
+
+# Ignore compiled files
+/public/storage
+/storage/*.key
+/storage/oauth-public.key
+/storage/oauth-private.key
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
