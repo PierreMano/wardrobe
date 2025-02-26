@@ -41,7 +41,7 @@ A full-stack application for managing your clothing items, built with Vue 3 and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/PierreMano/wardrobe.git
-   cd wardrobe-management/backend
+   cd wardrobe/backend
    ```
 
 2. Install PHP dependencies:
